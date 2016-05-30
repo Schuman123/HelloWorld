@@ -1,2 +1,3 @@
 # HelloWorld
-make life better
+make life better 
+better life better way
